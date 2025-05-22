@@ -8,7 +8,7 @@
 public class DanielSismer {
 
     private final String name = "Daniel Vinicius Rios Sismer";
-    private final int age = 17;
+    private int age = 17;
     private final String primaryProfession = "Desenvolvedor de Software";
     private final String careerGoal = "Especialista Full Stack";
     
