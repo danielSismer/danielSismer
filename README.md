@@ -2,8 +2,6 @@
   <img src="assets/jake.gif" alt="Jake the Dog GIF" width="300"/>
 </p>
 
-**Desenvolvedor Júnior Java**
-
 ## Olá, eu sou o Daniel! 👋
 
 ```java
