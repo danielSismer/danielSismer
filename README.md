@@ -1,5 +1,5 @@
 <p>
-  <img src="adventure-time-java.gif" alt="Jake the Dog GIF" width="1080" height="1080"/>
+  <img src="adventure-time-java.gif" alt="Jake the Dog GIF" width="1080" height="800"/>
 </p>
 
 ## Olá, eu sou o Daniel! 👋
