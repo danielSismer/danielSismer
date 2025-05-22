@@ -4,7 +4,7 @@
 
 # Daniel Vinicius Rios Sismer
 
-**Desenvolvedor Sênior em Portugol**
+**Desenvolvedor Júnior Java**
 
 ---
 
@@ -14,15 +14,8 @@
 - Java
 - Maven
 - MySQL
-- JDBC
 - HTML
 - CSS
-
----
-
-## 🚀 Projeto em destaque
-
-- **Projeto Weg_one**
 
 ---
 
