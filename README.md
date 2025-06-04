@@ -1,9 +1,7 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=900&color=00BFFF&center=true&vCenter=true&width=800&lines=Ola,+eu+sou+o+Daniel+Vinicius+Rios+Sismer!;👨‍💻" alt="Olá, eu sou o Daniel Vinicius Rios Sismer! 👨‍💻" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=900&color=00BFFF&center=true&vCenter=true&width=1000&lines=Olá+eu+sou+o+Daniel+Vinicius+Rios+Sismer!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Olá, eu sou o Daniel Vinicius Rios Sismer! 👨‍💻" />
+
 
 ---
-
 
 ## 🚀 Sobre mim
 
