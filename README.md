@@ -49,7 +49,7 @@ Sou um entusiasta da tecnologia, atuando como **Desenvolvedor Back-End Júnior**
 
 - [![Instagram](https://img.shields.io/badge/Instagram-@7nielz-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/7nielz)
 - [![GitHub](https://img.shields.io/badge/GitHub-danielSismer-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/danielSismer)
-- [![Email](https://img.shields.io/badge/E--mail-daniel.sismer%40email.com-red?style=flat-square)](mailto:daniel.sismer@email.com)
+- [![Email](https://img.shields.io/badge/E--mail-daniel.sismer%40email.com-red?style=flat-square)](mailto:daniel.sismer@estudante.sesisenai.org.br)
 
 ---
 
