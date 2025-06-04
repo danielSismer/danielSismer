@@ -1,10 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00BFFF&width=700&lines=+%F0%9F%94%A5+Bem-vindo%2C+sou+Dev+Back-End!+;Sempre+aprendendo+e+pronto+para+novos+desafios%21+;Desenvolvedor+Júnior+focado+em+back-end+e+cloud.%F0%9F%92%BB" alt="Typing SVG Animated Welcome" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=900&color=00BFFF&center=true&vCenter=true&width=800&lines=Ola,+eu+sou+o+Daniel+Vinicius+Rios+Sismer!;👨‍💻" alt="Olá, eu sou o Daniel Vinicius Rios Sismer! 👨‍💻" />
 </p>
 
-<h1 align="center">Olá, eu sou o Daniel Vinicius Rios Sismer! 👨‍💻</h1>
-
 ---
+
 
 ## 🚀 Sobre mim
 
@@ -31,7 +30,7 @@ Sou um entusiasta da tecnologia, atuando como **Desenvolvedor Back-End Júnior**
 
 ## 🌱 Em evolução
 
-- Aperfeiçoando práticas de **DevOps** e **bancos de dados na nuvem**
+- Aprimorando práticas de **DevOps** e **bancos de dados em nuvem**
 - Melhorando habilidades em **automação** e **desenvolvimento back-end**
 - Sempre aprendendo novas tecnologias e frameworks!
 
