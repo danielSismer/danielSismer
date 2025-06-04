@@ -65,7 +65,7 @@ Sou um entusiasta da tecnologia, atuando como **Desenvolvedor Back-End Júnior**
 
 ## 🚧 Projetos em Destaque
 
-- [WEG One](https://github.com/danielSismer/ProjetoWEG_ONE)  
+- [WEG One](https://github.com/danielSismer/Projeto_WEG_ONE)  
   Sistema para cadastro, pesquisa, edição e exclusão de orientações, facilitando o dia a dia dos operários na fábrica. Permite o acesso simplificado a manuais de utilização de equipamentos em setores específicos.
 
 - [Pizzaria Sismer](https://github.com/danielSismer/Pizzaria-Sismer)  
@@ -89,15 +89,14 @@ Sou um entusiasta da tecnologia, atuando como **Desenvolvedor Back-End Júnior**
 </p>
 
 ---
-
 ## 📬 Vamos conectar?
 
 <p align="center">
-  <a href="https://instagram.com/7nielz" target="_blank"><img src="https://img.shields.io/badge/Instagram-@7nielz-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://github.com/danielSismer" target="_blank"><img src="https://img.shields.io/badge/GitHub-danielSismer-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:daniel.sismer@estudante.sesisenai.org.br" target="_blank"><img src="https://img.shields.io/badge/E-mail-daniel.sismer%40email.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://instagram.com/7nielz" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@7nielz-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://github.com/danielSismer" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-danielSismer-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
-
----
 
 > ⭐ Sinta-se à vontade para explorar meus projetos, sugerir melhorias ou entrar em contato para parcerias e ideias!
