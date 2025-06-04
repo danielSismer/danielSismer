@@ -1,4 +1,5 @@
-<img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=40&pause=900&color=FFFFFF&vCenter=true&width=1000&lines=Ol%C3%A1+eu+sou+o+Daniel+Vinicius+Rios+Sismer!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Olá, eu sou o Daniel Vinicius Rios Sismer! 👨‍💻" />
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=40&pause=1000&color=FFFFFF&vCenter=true&width=1400&lines=Olá+eu+sou+o+Daniel+Vinicius+Rios+Sismer!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+%E2%98%95%EF%B8%8F;Apaixonado+por+tecnologia+e+aprendizado+constante+%F0%9F%90%AC
+)
 
 
 
