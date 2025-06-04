@@ -65,7 +65,7 @@ Sou um entusiasta da tecnologia, atuando como **Desenvolvedor Back-End Júnior**
 
 ## 🚧 Projetos em Destaque
 
-- [WEG One](https://github.com/danielSismer/Projeto_WEG_ONE)  
+- [WEG One](https://github.com/danielSismer/ProjetoWEG_ONE)  
   Sistema para cadastro, pesquisa, edição e exclusão de orientações, facilitando o dia a dia dos operários na fábrica. Permite o acesso simplificado a manuais de utilização de equipamentos em setores específicos.
 
 - [Pizzaria Sismer](https://github.com/danielSismer/Pizzaria-Sismer)  
