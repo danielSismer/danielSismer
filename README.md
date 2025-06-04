@@ -48,9 +48,10 @@ Sou um entusiasta da tecnologia, atuando como **Desenvolvedor Back-End Júnior**
 
 ## 📬 Vamos conectar?
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin)
+- [![Instagram](https://img.shields.io/badge/Instagram-@7nielz-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/7nielz)
+- [![GitHub](https://img.shields.io/badge/GitHub-danielSismer-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/danielSismer)
 - [![Email](https://img.shields.io/badge/E--mail-daniel.sismer%40email.com-red?style=flat-square)](mailto:daniel.sismer@email.com)
 
 ---
 
-> ⭐ Sinta-se à vontade para explorar meus projetos, sugerir melhorias ou entrar em contato para parcerias e ideias!  
+> ⭐ Sinta-se à vontade para explorar meus projetos, sugerir melhorias ou entrar em contato para parcerias e ideias!
