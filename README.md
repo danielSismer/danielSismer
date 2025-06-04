@@ -1,6 +1,4 @@
-<p>
-  <img src="adventure-time-java.gif" alt="Jake the Dog GIF" width="1080" height="500"/>
-</p>
+
 
 ## Olá, eu sou o Daniel! 👋
 
