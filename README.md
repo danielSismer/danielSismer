@@ -10,73 +10,33 @@ Sou um entusiasta da tecnologia, atuando como **Desenvolvedor Back-End Júnior**
 
 ## 💡 Stack & Skills
 
-<div align="center" style="background:#1e1e1e; padding: 15px; border-radius: 10px;">
-
-<table>
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" height="40"/>
-      <p><b>Java</b></p>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="40"/>
-      <p><b>Python</b></p>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" height="40"/>
-      <p><b>HTML</b></p>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" height="40"/>
-      <p><b>CSS</b></p>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" height="40"/>
-      <p><b>PostgreSQL</b></p>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="40"/>
-      <p><b>MySQL</b></p>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" height="40"/>
-      <p><b>Maven</b></p>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="40"/>
-      <p><b>Git</b></p>
-    </td>
-  </tr>
-</table>
-
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="30"/>
 </div>
 
 ---
 
 ## 🚧 Projetos em Destaque
 
-- [WEG One](https://github.com/danielSismer/Projeto_WEG_ONE)  
-  Sistema para cadastro, pesquisa, edição e exclusão de orientações, facilitando o dia a dia dos operários na fábrica. Permite o acesso simplificado a manuais de utilização de equipamentos em setores específicos.
-
-- [Pizzaria Sismer](https://github.com/danielSismer/Pizzaria-Sismer)  
-  Projeto front-end em HTML e CSS de uma pizzaria italiana tradicional, que proporciona o verdadeiro sabor italiano das pizzas por meio de uma interface elegante e funcional.
+- [WEG One](https://github.com/danielSismer/Projeto_WEG_ONE): Sistema para cadastro, pesquisa, edição e exclusão de orientações, facilitando o dia a dia dos operários na fábrica.
+- [Pizzaria Sismer](https://github.com/danielSismer/Pizzaria-Sismer): Projeto front-end em HTML e CSS de uma pizzaria italiana tradicional.
 
 ---
 
 ## 🌱 Em evolução
 
-- 🚀 Aprimorando práticas de **DevOps** e **bancos de dados em nuvem**  
-- 🤖 Melhorando habilidades em **automação** e **desenvolvimento back-end**  
+- 🚀 Aprimorando práticas de **DevOps** e **bancos de dados em nuvem**
+- 🤖 Melhorando habilidades em **automação** e **desenvolvimento back-end**
 - 📚 Sempre aprendendo novas tecnologias e frameworks!
 
 ---
@@ -84,11 +44,12 @@ Sou um entusiasta da tecnologia, atuando como **Desenvolvedor Back-End Júnior**
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danielSismer&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielSismer&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=danielSismer&theme=highcontrast&hide_border=false&include_all_commits=true&show_icons=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielSismer&theme=highcontrast&hide_border=false&include_all_commits=true&show_icons=true" alt="GitHub Streak" height="180"/>
 </p>
 
 ---
+
 ## 📬 Vamos conectar?
 
 <p align="center">
@@ -97,6 +58,7 @@ Sou um entusiasta da tecnologia, atuando como **Desenvolvedor Back-End Júnior**
   </a>
   <a href="https://github.com/danielSismer" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-danielSismer-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 > ⭐ Sinta-se à vontade para explorar meus projetos, sugerir melhorias ou entrar em contato para parcerias e ideias!
