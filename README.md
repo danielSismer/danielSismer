@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=40&pause=1000&color=FFFFFF&vCenter=true&width=1400&lines=Olá+eu+sou+o+Daniel+Vinicius+Rios+Sismer!;Apaixonado+por+tecnologia+e+aprendizado+constante)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=40&pause=1000&color=FFFFFF&vCenter=true&width=1400&lines=Olá+eu+sou+o+Daniel+Vinicius+Rios+Sismer!;Apaixonado+por+tecnologia+e+aprendizado+constante!)
 
 ---
 
