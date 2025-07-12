@@ -25,7 +25,7 @@ Explorador de novas stacks, linguagens, frameworks e desafios. Sempre em busca d
 
 ## 🛠️ Stack & Skills
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,react,nodejs,html,css,postgres,mysql,maven,git,linux,github&theme=dark" /><br>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,postgres,mysql,maven,git,linux,github&theme=dark" /><br>
 <img src="https://img.shields.io/badge/Full%20Stack-00FFD0?style=for-the-badge&logo=code&logoColor=1A1A2E"/>
 <img src="https://img.shields.io/badge/Front--End-1A1A2E?style=for-the-badge&logo=react&logoColor=00FFD0"/>
 <img src="https://img.shields.io/badge/Back--End-00FFD0?style=for-the-badge&logo=java&logoColor=1A1A2E"/>
