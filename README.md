@@ -1,11 +1,11 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=00FFD0&vCenter=true&width=1000&lines=Olá%2C+eu+sou+Daniel+Sismer!;Desenvolvedor+Full+Stack;Tecnologia+%7C+Inovação+%7C+Criatividade)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&pause=1000&color=FFFFFF&vCenter=true&width=1000&lines=Olá%2C+eu+sou+Daniel+Sismer!;Desenvolvedor+Full+Stack;Tecnologia+%7C+Inovação+%7C+Criatividade)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFD0,100:1A1A2E&height=180&section=header&text=Bem-vindo(a)%20ao%20meu%20universo%20tecnol%C3%B3gico!&fontSize=36&fontColor=1A1A2E&animation=fadeIn" alt="capa animada"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003366,100:00509E&height=180&section=header&text=Bem-vindo(a)%20ao%20meu%20universo%20tecnol%C3%B3gico!&fontSize=36&fontColor=FFFFFF&fontWeight=bold&animation=fadeIn" alt="capa animada"/>
 </p>
 
 <div align="center" style="margin-bottom: 12px;">
-  <img src="https://avatars.githubusercontent.com/u/99240510?v=4" width="180" alt="Daniel Sismer avatar" style="border-radius:50%; box-shadow:0 0 24px #00FFD0;">
+  <img src="https://avatars.githubusercontent.com/u/99240510?v=4" width="180" alt="Daniel Sismer avatar" style="border-radius:50%; box-shadow:0 0 24px #003366;">
 </div>
 
 ---
@@ -14,8 +14,13 @@
 
 ## 🚀 Sobre mim
 
-Sou Desenvolvedor **Full Stack** apaixonado por criar soluções completas, do front-end ao back-end, com tecnologia, automação e cloud!  
-Explorador de novas stacks, linguagens, frameworks e desafios. Sempre em busca de inovação, melhores práticas e aprendizado contínuo.
+Sou **Desenvolvedor Full Stack** iniciante, apaixonado por tecnologia, café e desafios.  
+Estou começando minha jornada no mundo da programação, sempre buscando aprender coisas novas e evoluir um pouquinho a cada dia.
+
+Gosto de explorar diferentes áreas da tecnologia e experimentar novas linguagens e ferramentas.  
+No tempo livre, curto jogar futebol, aproveitar um bom game e bater um papo descontraído tomando café.
+
+Se quiser falar sobre código, games ou futebol, bora trocar uma ideia! 🚀
 
 </div>
 
@@ -26,11 +31,11 @@ Explorador de novas stacks, linguagens, frameworks e desafios. Sempre em busca d
 ## 🛠️ Stack & Skills
 
 <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,postgres,mysql,maven,git,linux,github&theme=dark" /><br>
-<img src="https://img.shields.io/badge/Full%20Stack-00FFD0?style=for-the-badge&logo=code&logoColor=1A1A2E"/>
-<img src="https://img.shields.io/badge/Front--End-1A1A2E?style=for-the-badge&logo=react&logoColor=00FFD0"/>
-<img src="https://img.shields.io/badge/Back--End-00FFD0?style=for-the-badge&logo=java&logoColor=1A1A2E"/>
-<img src="https://img.shields.io/badge/Cloud-1A1A2E?style=for-the-badge&logo=cloudflare&logoColor=00FFD0"/>
-<img src="https://img.shields.io/badge/Always%20Learning-00FFD0?style=for-the-badge&logo=academia&logoColor=1A1A2E"/>
+<img src="https://img.shields.io/badge/Full%20Stack-003366?style=for-the-badge&logo=code&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Front--End-00509E?style=for-the-badge&logo=react&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Back--End-003366?style=for-the-badge&logo=java&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Cloud-00509E?style=for-the-badge&logo=cloudflare&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Always%20Learning-003366?style=for-the-badge&logo=academia&logoColor=FFFFFF"/>
 </div>
 
 ---
@@ -40,10 +45,10 @@ Explorador de novas stacks, linguagens, frameworks e desafios. Sempre em busca d
 ## 🌟 Destaques
 
 <a href="https://github.com/danielSismer/gerenciador-de-tasks">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielSismer&repo=gerenciador-de-tasks&theme=react&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielSismer&repo=gerenciador-de-tasks&theme=blueberry&hide_border=true" />
 </a>
 <a href="https://github.com/danielSismer/WEG_One">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielSismer&repo=WEG_One&theme=react&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielSismer&repo=WEG_One&theme=blueberry&hide_border=true" />
 </a>
 
 </div>
@@ -86,10 +91,10 @@ Explorador de novas stacks, linguagens, frameworks e desafios. Sempre em busca d
 ## 🌐 Onde me encontrar
 
 <a href="https://instagram.com/7nielz" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-@7nielz-1A1A2E?style=for-the-badge&logo=instagram&logoColor=00FFD0" />
+  <img src="https://img.shields.io/badge/Instagram-@7nielz-003366?style=for-the-badge&logo=instagram&logoColor=FFFFFF" />
 </a>
 <a href="https://github.com/danielSismer" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-danielSismer-1A1A2E?style=for-the-badge&logo=github&logoColor=00FFD0" />
+  <img src="https://img.shields.io/badge/GitHub-danielSismer-003366?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 </a>
 
 </div>
@@ -97,7 +102,7 @@ Explorador de novas stacks, linguagens, frameworks e desafios. Sempre em busca d
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFD0,100:1A1A2E&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003366,100:00509E&height=100&section=footer"/>
 </p>
 
 <p align="center">
