@@ -90,7 +90,7 @@ Se quiser falar sobre código, games ou futebol, bora trocar uma ideia! 🚀
 ## 🌐 Onde me encontrar
 
 <a href="https://instagram.com/7nielz" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-@7nielz-003366?style=for-the-badge&logo=instagram&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Instagram-@daniel.sismer-003366?style=for-the-badge&logo=instagram&logoColor=FFFFFF" />
 </a>
 <a href="https://github.com/danielSismer" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-danielSismer-003366?style=for-the-badge&logo=github&logoColor=FFFFFF" />
