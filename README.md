@@ -35,7 +35,6 @@ Se quiser falar sobre código, games ou futebol, bora trocar uma ideia! 🚀
 <img src="https://img.shields.io/badge/Front--End-00509E?style=for-the-badge&logo=react&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Back--End-003366?style=for-the-badge&logo=java&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Cloud-00509E?style=for-the-badge&logo=cloudflare&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Always%20Learning-003366?style=for-the-badge&logo=academia&logoColor=FFFFFF"/>
 </div>
 
 ---
