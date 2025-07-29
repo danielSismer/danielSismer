@@ -30,7 +30,7 @@ Se quiser falar sobre código, games ou futebol, bora trocar uma ideia! 🚀
 
 ## 🛠️ Stack & Skills
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,postgres,mysql,maven,git,linux,github&theme=dark" /><br>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,postgres,mysql,maven,git,linux&theme=dark" /><br>
 <img src="https://img.shields.io/badge/Full%20Stack-003366?style=for-the-badge&logo=code&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Front--End-00509E?style=for-the-badge&logo=react&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Back--End-003366?style=for-the-badge&logo=java&logoColor=FFFFFF"/>
