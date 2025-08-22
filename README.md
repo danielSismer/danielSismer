@@ -12,19 +12,6 @@
 
 <div align="center">
 
-## 🚀 Sobre mim
-
-Sou **Desenvolvedor Full Stack** iniciante, apaixonado por tecnologia, café e desafios.  
-Estou começando minha jornada no mundo da programação, sempre buscando aprender coisas novas e evoluir um pouquinho a cada dia.
-
-Gosto de explorar diferentes áreas da tecnologia e experimentar novas linguagens e ferramentas.  
-No tempo livre, curto jogar futebol, aproveitar um bom game e bater um papo descontraído tomando café.
-
-Se quiser falar sobre código, games ou futebol, bora trocar uma ideia! 🚀
-
-</div>
-
----
 
 <div align="center">
 
