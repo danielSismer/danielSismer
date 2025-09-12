@@ -18,8 +18,7 @@ Olá! Meu nome é **Daniel Sismer**. Sou estudante autodidata em Tecnologia da I
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,cpp,html,css,mysql,postgres,git,linux,maven&theme=dark" /><br>
   <img src="https://img.shields.io/badge/Full%20Stack-1a1a1a?style=for-the-badge&logo=code&logoColor=FF2323"/>
-  <img src="https://img.shields.io/badge/Front--End-FF2323?style=for-the-badge&logo=html5&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/Back--End-1a1a1a?style=for-the-badge&logo=java&logoColor=FF2323"/>
+
   <img src="https://img.shields.io/badge/Banco%20de%20Dados-FF2323?style=for-the-badge&logo=mysql&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/Versionamento-1a1a1a?style=for-the-badge&logo=git&logoColor=FF2323"/>
 </div>
