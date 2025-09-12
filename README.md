@@ -1,96 +1,69 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&pause=1000&color=FFFFFF&vCenter=true&width=1000&lines=Olá%2C+eu+sou+Daniel+Sismer!;Desenvolvedor+Full+Stack;Tecnologia+%7C+Inovação+%7C+Criatividade)
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003366,100:00509E&height=180&section=header&text=Bem-vindo(a)%20ao%20meu%20universo%20tecnol%C3%B3gico!&fontSize=36&fontColor=FFFFFF&fontWeight=bold&animation=fadeIn" alt="capa animada"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:ff2323&height=180&section=header&text=Bem-vindo%20ao%20meu%20GitHub!&fontSize=36&fontColor=FFFFFF&fontWeight=bold" alt="header" />
 </p>
 
-<div align="center" style="margin-bottom: 12px;">
-  <img src="https://avatars.githubusercontent.com/u/99240510?v=4" width="180" alt="Daniel Sismer avatar" style="border-radius:50%; box-shadow:0 0 24px #003366;">
+---
+
+## 👨‍💻 Sobre mim
+
+Olá! Meu nome é **Daniel Sismer**. Sou estudante autodidata em Tecnologia da Informação, com foco em desenvolvimento de software e interesse constante por novos aprendizados. Estou construindo minha base como desenvolvedor Full Stack, praticando programação, versionamento, banco de dados e desenvolvimento web.
+
+- 📚 **Estudando:** Fundamentos de programação, lógica, Java, C++, bancos de dados, desenvolvimento web, Git e práticas de versionamento
+- 🌱 **Objetivo:** Evoluir tecnicamente, criar projetos práticos e colaborar com a comunidade de tecnologia
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,html,css,mysql,postgres,git,linux,maven&theme=dark" /><br>
+  <img src="https://img.shields.io/badge/Full%20Stack-1a1a1a?style=for-the-badge&logo=code&logoColor=FF2323"/>
+  <img src="https://img.shields.io/badge/Front--End-FF2323?style=for-the-badge&logo=html5&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Back--End-1a1a1a?style=for-the-badge&logo=java&logoColor=FF2323"/>
+  <img src="https://img.shields.io/badge/Banco%20de%20Dados-FF2323?style=for-the-badge&logo=mysql&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Versionamento-1a1a1a?style=for-the-badge&logo=git&logoColor=FF2323"/>
 </div>
 
 ---
 
-<div align="center">
-
-
-<div align="center">
-
-## 🛠️ Stack & Skills
-
-<img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,postgres,mysql,maven,git,linux&theme=dark" /><br>
-<img src="https://img.shields.io/badge/Full%20Stack-003366?style=for-the-badge&logo=code&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Front--End-00509E?style=for-the-badge&logo=react&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Back--End-003366?style=for-the-badge&logo=java&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Cloud-00509E?style=for-the-badge&logo=cloudflare&logoColor=FFFFFF"/>
-</div>
-
----
+## 🚩 Projetos de Estudo e Prática
 
 <div align="center">
 
-## 🌟 Destaques
+[![VeritasCapital](https://github-readme-stats.vercel.app/api/pin/?username=danielSismer&repo=VeritasCapital&theme=radical&hide_border=true)](https://github.com/danielSismer/VeritasCapital)
 
-<a href="https://github.com/danielSismer/gerenciador-de-tasks">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielSismer&repo=gerenciador-de-tasks&theme=blueberry&hide_border=true" />
-</a>
-<a href="https://github.com/danielSismer/WEG_One">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielSismer&repo=WEG_One&theme=blueberry&hide_border=true" />
-</a>
+[![WEG_One](https://github-readme-stats.vercel.app/api/pin/?username=danielSismer&repo=WEG_One&theme=radical&hide_border=true)](https://github.com/danielSismer/WEG_One)
+[![gerenciador-de-tasks](https://github-readme-stats.vercel.app/api/pin/?username=danielSismer&repo=gerenciador-de-tasks&theme=radical&hide_border=true)](https://github.com/danielSismer/gerenciador-de-tasks)
 
 </div>
 
+> 💡 Estes projetos são voltados para aprendizado, prática e evolução no desenvolvimento de software.
+
 ---
+
+## 🤝 Conexão & Profissionalismo
+
+- **Interesse:** Aprender, compartilhar conhecimento e colaborar em projetos de TI.
+- **Contato rápido:** [LinkedIn](https://www.linkedin.com/in/daniel-sismer) ou abra uma issue/discussão em algum repositório.
 
 <div align="center">
-
-## 📈 Estatísticas GitHub
-
-### 🏆 Troféus
-<img src="https://github-profile-trophy.vercel.app/?username=danielSismer&theme=github-dark&row=1&column=7" height="110"/>
-
----
-
-### 🔥 Contribuições e Atividade
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=danielSismer&theme=react-dark&hide_border=true&area=true&color=00FFD0&line=00FFD0&point=00FFD0" height="180"/>
-
----
-
-### 📊 Métricas Gerais
-<img src="https://github-readme-stats.vercel.app/api?username=danielSismer&theme=react&hide_border=true&include_all_commits=true&show_icons=true&icon_color=00FFD0&title_color=00FFD0&text_color=FFFFFF" height="170"/>
-
----
-
-### 🚀 Linguagens mais utilizadas
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielSismer&layout=compact&theme=react&hide_border=true&title_color=00FFD0&text_color=FFFFFF" height="170"/>
-
----
-
-### ⏳ Streak (dias de contribuição)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=danielSismer&theme=react&hide_border=true&stroke=00FFD0&ring=00FFD0&fire=00FFD0&currStreakLabel=00FFD0" height="170"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🌐 Onde me encontrar
-
-<a href="https://instagram.com/7nielz" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-@daniel.sismer-003366?style=for-the-badge&logo=instagram&logoColor=FFFFFF" />
-</a>
-<a href="https://github.com/danielSismer" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-danielSismer-003366?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-</a>
-
+  <a href="https://instagram.com/7nielz" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@daniel.sismer-1a1a1a?style=for-the-badge&logo=instagram&logoColor=FF2323" />
+  </a>
+  <a href="https://github.com/danielSismer" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-danielSismer-1a1a1a?style=for-the-badge&logo=github&logoColor=FF2323" />
+  </a>
+  <a href="mailto:daniel.sismer@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-daniel.sismer@gmail.com-FF2323?style=for-the-badge&logo=gmail&logoColor=ffffff" />
+  </a>
 </div>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003366,100:00509E&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:ff2323&height=100&section=footer"/>
 </p>
 
 <p align="center">
-  <b>⭐ Explore meus projetos, contribua ou chame para uma ideia inovadora! 🚀</b>
+  <b>⭐ Sinta-se à vontade para explorar meus projetos, sugerir melhorias ou propor colaborações. Estou sempre aberto a novos aprendizados e desafios!</b>
 </p>
