@@ -6,7 +6,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Olá! Meu nome é **Daniel Sismer**. Sou estudante autodidata em Tecnologia da Informação, com foco em desenvolvimento de software e interesse constante por novos aprendizados. Estou construindo minha base como desenvolvedor Full Stack, praticando programação, versionamento, banco de dados e desenvolvimento web.
+Olá! Meu nome é **Daniel Sismer**. Sou estudante de Tecnologia da Informação, com foco em desenvolvimento de software e interesse constante por novos aprendizados. Estou construindo minha base como desenvolvedor Full Stack, praticando programação, versionamento, banco de dados e desenvolvimento web.
 
 - 📚 **Estudando:** Fundamentos de programação, lógica, Java, C++, bancos de dados, desenvolvimento web, Git e práticas de versionamento
 - 🌱 **Objetivo:** Evoluir tecnicamente, criar projetos práticos e colaborar com a comunidade de tecnologia
